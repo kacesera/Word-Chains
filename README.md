@@ -6,6 +6,8 @@ This prints out the path it takes to get from one word, to another of the same l
 
 #How to use:
 > Initialize by typing ' words = Wordchainer.new('dictionary.txt')
+
 > words.run(<WORD YOU WANT TO START WITH>, <WORD YOU WANT TO END AT>)
+  
 > Enjoy pathing out words!
 
